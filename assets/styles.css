@@ -1,0 +1,18 @@
+.outer {
+text-align: center;
+display: inline-block;
+
+}
+  .floating-box {
+    display: inline-block; 
+    width: 200px;
+    height: 200px;
+    margin: 7px;
+    border: 1px solid transparent;  
+}
+
+.page-header h1{
+  font-family: 'Bangers', cursive;
+  text-align: center;
+  font-size: 80px;
+}
